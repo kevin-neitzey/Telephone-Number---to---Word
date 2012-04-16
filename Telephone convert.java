@@ -1,5 +1,10 @@
 /**
  * Kevin Neitzey
+ *
+ * This program will use the EnglishWordList.txt file to compare 
+ * a 7 digit number entered, and will look for a match. If a match is found 
+ * it will return the word combination. If no match is found it will
+ * return "No match found"
  **/
 package project;
 import java.io.BufferedReader;
