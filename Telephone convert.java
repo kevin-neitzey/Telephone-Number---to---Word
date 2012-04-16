@@ -1,9 +1,5 @@
 /**
  * Kevin Neitzey
- * COSC 241, Project 2
- * Takes in a phone number and if possible returns
- * a english word of that number
- * 
  **/
 package project;
 import java.io.BufferedReader;
